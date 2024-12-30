@@ -63,7 +63,22 @@ Finally, the app might need to have some logic for more complex voice commands t
 
 - I like those suggested ideas. Could you format them into a document and then send them to X? (extraction, document formatting, email integration)  
 - Could you take that summary of the CRM options, but for each option that you found to add the monthly subscription cost? When you've done that, go ahead and save that to the pricing research folder in the Business Drive. Now I've got to go!
+ 
+### Handsfree Operation
 
+A key goal for this idea would be supporting truly seamless and hands free operation. In this respect, on the go voice interactions have to be distinguished from those which could be conducted in a more stationary setting, like a home office or a conventional office. 
+
+A user might wish to use a voice LLM interaction while working at a standing desk, or perhaps doing housework. In these contexts, the user could use conventional interaction methods (ie their hands!) to fix transcription errors, interrupt outputs, etc. 
+
+A user interacting with an LLM with their hands full (literally!) would not have these options. In this second, more demanding setting the reliability of things like interrupt commands become essential - as do voice commands for refining or overriding incorrect prompt capture.  
+
+But it's in this second setting that the idea of capturing voice interactions becomes much more useful!
+
+ While a user may wish to engage with a large language model by voice at their office, they can simply copy the transcript into a Google Drive for retention. 
+ 
+ A user on the go has to either expect that this will happen automatically (which could be a less intelligent saving method!) or hope that the voice commands work reliably. But if they did, it would support integrating more mobile and healthier workflows, especially for remote workers with colleagues who might find themselves working at a desk. 
+ 
+ In this (second) use case, the mobile remote worker might interact with an LLM by voice to ideate some ideas for a meeting, use voice commands to route those outputs into a shared Drive, while colleagues in the office could immediately receive that output and develop it from their stationary workstations. This use case would be perfect for just about any modern team that has embraced remote and hybrid working! 
 
 ## Author
 
